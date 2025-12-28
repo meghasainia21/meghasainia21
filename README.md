@@ -19,8 +19,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=meghasainia21&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=meghasainia21&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=meghasainia21&theme=shades-of-purple&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 Featured Projects
+🚀 ProcessIQ- Intelligent Process Analytics Platform <br>
+🚀 EchoCare- Smart Healthcare Assistance Platform<br>
+🚀 BookBinge-Hybrid Book Recommendation System.
+<br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
