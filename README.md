@@ -4,6 +4,7 @@
 🎓 3rd year B Tech student at NIT Bhopal 
 
 </div>
+
 # 💫 About Me:
 🔭 B Tech 3rd year student at NIT BHOPAL.<br>👯 Full Stack Developer specializing in modern web technologies.<br>🌱 Aspiring Software Developer.<br>⚡ Skilled in DSA and Machine Learning Technologies.
 
