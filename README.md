@@ -1,7 +1,7 @@
 <div align="center">
   
 # Megha Sainia | 👩‍💻 Developer
-<h2>🎓 3rd year B Tech student at NIT Bhopal </h2>
+<h3>🎓 3rd year B Tech student at NIT Bhopal </h3>
 
 </div>
 
