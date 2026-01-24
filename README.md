@@ -20,6 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=meghasainia21&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 Featured Projects
+🚀 AI-Powered Smart Parking Capacity Enforcement System
 🚀 ProcessIQ- Intelligent Process Analytics Platform <br>
 🚀 EchoCare- Smart Healthcare Assistance Platform<br>
 🚀 BookBinge-Hybrid Book Recommendation System.
