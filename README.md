@@ -10,6 +10,10 @@
 - ❄️ Social Winter of Code (SWoC) 2025
 - 🌸 GirlScript Summer of Code (GSSoC) 2024
 
+## 🏆 Hackathons
+- 🥈 Finalist — **Hack4Delhi Hackathon**  
+- 🥈 Finalist — **Hacksagon Hackathon (ABV-IIIT Gwalior)** 
+
 
 
 ## 🌐 Socials:
