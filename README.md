@@ -12,7 +12,8 @@
 
 ## 🏆 Hackathons
 - 🥈 Finalist — **Hack4Delhi Hackathon**  
-- 🥈 Finalist — **Hacksagon Hackathon (ABV-IIIT Gwalior)** 
+- 🥈 Finalist — **Hacksagon Hackathon (ABV-IIIT Gwalior)**
+- 🥈 Semi-Finalist — **EY Technathon** 
 
 
 
