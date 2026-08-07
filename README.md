@@ -10,10 +10,13 @@
 - ❄️ Social Winter of Code (SWoC) 2025
 - 🌸 GirlScript Summer of Code (GSSoC) 2024
 
-## 🏆 Hackathons
+## 🏆 Hackathons & Achievements
 - 🥈 Finalist — **Hack4Delhi Hackathon**  
 - 🥈 Finalist — **Hacksagon Hackathon (ABV-IIIT Gwalior)**
-- 🥈 Semi-Finalist — **EY Technathon** 
+- 🥈 Semi-Finalist — **EY Technathon 2025**
+- 🥈 Semi-Finalist — **Women Who Master Hackathon by Logitech**(Selected for Zonal Rounds among 99K+ nationwide participants)
+- 🌐 Global Rank 210 — **ICPC Algoqueen 2026**
+- 🚀 Selected for **Amazon ML Summer School 2026**
 
 
 
