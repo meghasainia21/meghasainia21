@@ -7,6 +7,8 @@
 
 # 💫 About Me:
 💻 Full Stack Developer specializing in modern web technologies. <br>🧠 Skilled in DSA and Machine Learning Technologies.<br>💡 I enjoy solving Competitive Programming to sharpen my problem-solving skills.<br>🌱 I am deeply enthusiastic about Open Source and have actively participated in:<br>
+
+- 🌸 Google Summer of Code (GSoC) 2024
 - ❄️ Social Winter of Code (SWoC) 2025
 - 🌸 GirlScript Summer of Code (GSSoC) 2024
 
@@ -16,6 +18,7 @@
 - 🥈 Semi-Finalist — **EY Technathon 2025**
 - 🥈 Semi-Finalist — **Women Who Master Hackathon by Logitech**(Selected for Zonal Rounds among 99K+ nationwide participants)
 - 🌐 Global Rank 210 — **ICPC Algoqueen 2026**
+-  **Top 15,000** global rank (Top 15%) in **Google Big Code Challenge**
 - 🚀 Selected for **Amazon ML Summer School 2026**
 
 
