@@ -14,13 +14,14 @@
 
 ## 🏆 Hackathons & Achievements
 - 🏆 Secured Rank 1480 in the **ICPC Asia West Online Preliminary Contest 2026**.
+- 🌐 Global Rank 210 — **ICPC Algoqueen 2026**
+- 🚀 **Top 15,000** global rank (Top 15%) in **Google Big Code Challenge**
+- 🚀 Selected for **Amazon ML Summer School 2026**
 - 🥈 Finalist — **Hack4Delhi Hackathon(Top 50🏆)**  
 - 🥈 Finalist — **Hacksagon Hackathon (ABV-IIIT Gwalior)**
 - 🥈 Semi-Finalist — **EY Technathon 2025**
 - 🥈 Semi-Finalist — **Women Who Master Hackathon by Logitech** (Selected for Zonal Rounds among 99K+ nationwide participants)
-- 🌐 Global Rank 210 — **ICPC Algoqueen 2026**
-- 🚀 **Top 15,000** global rank (Top 15%) in **Google Big Code Challenge**
-- 🚀 Selected for **Amazon ML Summer School 2026**
+
 
 
 
