@@ -6,7 +6,7 @@
 </div>
 
 # 💫 About Me:
-💻 Full Stack Developer specializing in modern web technologies. <br>🧠 Skilled in DSA and Machine Learning Technologies.<br>🏆 Participated in 50+ Coding Competitions & Hackathons, continuously challenging myself through problem-solving and innovation.<br>🌱 I am deeply enthusiastic about Open Source and have actively participated in:<br>
+💻 Full Stack Developer specializing in modern web technologies. <br>🧠 Skilled in DSA and Machine Learning Technologies.<br>🏆 Participated in 50+ Coding Competitions & Hackathons, with multiple finalist positions and competitive programming achievements.<br>🌱 I am deeply enthusiastic about Open Source and have actively participated in:<br>
 
 - 🌸 Google Summer of Code (GSoC) 2024
 - ❄️ Social Winter of Code (SWoC) 2025
