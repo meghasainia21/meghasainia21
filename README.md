@@ -6,13 +6,14 @@
 </div>
 
 # 💫 About Me:
-💻 Full Stack Developer specializing in modern web technologies. <br>🧠 Skilled in DSA and Machine Learning Technologies.<br>💡 I enjoy solving Competitive Programming to sharpen my problem-solving skills.<br>🌱 I am deeply enthusiastic about Open Source and have actively participated in:<br>
+💻 Full Stack Developer specializing in modern web technologies. <br>🧠 Skilled in DSA and Machine Learning Technologies.<br>🏆 Participated in 50+ Coding Competitions & Hackathons, continuously challenging myself through problem-solving and innovation.<br>🌱 I am deeply enthusiastic about Open Source and have actively participated in:<br>
 
 - 🌸 Google Summer of Code (GSoC) 2024
 - ❄️ Social Winter of Code (SWoC) 2025
 - 🌸 GirlScript Summer of Code (GSSoC) 2024
 
 ## 🏆 Hackathons & Achievements
+- 🏆 Secured Rank 1480 in the **ICPC Asia West Online Preliminary Contest 2026**.
 - 🥈 Finalist — **Hack4Delhi Hackathon(Top 50🏆)**  
 - 🥈 Finalist — **Hacksagon Hackathon (ABV-IIIT Gwalior)**
 - 🥈 Semi-Finalist — **EY Technathon 2025**
